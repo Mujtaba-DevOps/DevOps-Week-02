@@ -1,1 +1,1 @@
-print("DevOps Week 02 Application")
+print("Application running from MAIN branch")
