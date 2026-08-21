@@ -1,5 +1,3 @@
-# DevOps Week 02
+Monitoring
 
-This project demonstrates Git, Docker, deployment automation, branching, merging, and conflict resolution.
-
-Git workflow documentation
+Monitoring tools such as Prometheus and Grafana can be used to monitor application and infrastructure metrics.
