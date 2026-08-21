@@ -1,1 +1,1 @@
-print("Application running from MAIN branch")
+print("Application running from CONFLICT branch")
